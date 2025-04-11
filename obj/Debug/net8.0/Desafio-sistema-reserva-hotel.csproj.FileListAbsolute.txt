@@ -1,0 +1,14 @@
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\Desafio-sistema-reserva-hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\Desafio-sistema-reserva-hotel.AssemblyInfoInputs.cache
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\Desafio-sistema-reserva-hotel.AssemblyInfo.cs
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\Desafio-sistema-reserva-hotel.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio-sistema-reserva-hotel\bin\Debug\net8.0\Desafio-sistema-reserva-hotel.exe
+C:\Projetos\Desafio-sistema-reserva-hotel\bin\Debug\net8.0\Desafio-sistema-reserva-hotel.deps.json
+C:\Projetos\Desafio-sistema-reserva-hotel\bin\Debug\net8.0\Desafio-sistema-reserva-hotel.runtimeconfig.json
+C:\Projetos\Desafio-sistema-reserva-hotel\bin\Debug\net8.0\Desafio-sistema-reserva-hotel.dll
+C:\Projetos\Desafio-sistema-reserva-hotel\bin\Debug\net8.0\Desafio-sistema-reserva-hotel.pdb
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\Desafio-sistema-reserva-hotel.dll
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\refint\Desafio-sistema-reserva-hotel.dll
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\Desafio-sistema-reserva-hotel.pdb
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\Desafio-sistema-reserva-hotel.genruntimeconfig.cache
+C:\Projetos\Desafio-sistema-reserva-hotel\obj\Debug\net8.0\ref\Desafio-sistema-reserva-hotel.dll
