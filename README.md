@@ -35,3 +35,8 @@ Este é um projeto simples de console desenvolvido em **C#** com o objetivo de s
 1. Clone o repositório:
    ```bash
    git clone https://github.com/RamonLazaro/Sistema-reserva-hotel.git
+
+
+## 📌 Créditos
+
+Este projeto foi desenvolvido como parte de um desafio proposto durante o curso de C# na plataforma [DIO](https://www.dio.me/), sob a orientação do professor **Leonardo Buta**. A estrutura e lógica do sistema seguem as instruções práticas apresentadas ao longo das aulas.
